@@ -19,5 +19,8 @@
     }
 }
 @media screen and (min-width:1024px;{
-    
+    .container__frase{
+        display: block;
+        margin: auto;
+    }
 }

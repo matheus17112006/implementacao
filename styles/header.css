@@ -1,5 +1,5 @@
 .cabecalho{
-    border-color: var(--cor-do-cabecalho);
+    background-color: var(--cor-do-cabecalho);
 }
 .container{
     display:flex;

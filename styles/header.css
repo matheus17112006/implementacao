@@ -6,7 +6,7 @@
     align-items: center;
 
 }
-.container__titulo,.container__frase{
+.container__imagem,.container__frase{
     padding: 1em;
 }
 .container__titulo,.container__frase{
@@ -18,7 +18,7 @@
         font: weight 400;
     }
 }
-@media screen and (min-width:1024px;{
+@media screen and (min-width:1024px){
     .container__frase{
         display: block;
         margin: auto;
